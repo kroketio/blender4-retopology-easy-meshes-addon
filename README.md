@@ -5,3 +5,4 @@ This Blender addon automates the process of using `Instant Meshes` to retopologi
 It can also auto-bake textures.
 
 
+This addon is still WIP.
